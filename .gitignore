@@ -1,0 +1,9 @@
+secrets.yaml
+
+file.c
+
+/file.c
+
+*.c
+
+!not_ignore_me.yaml
